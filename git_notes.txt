@@ -1,0 +1,2 @@
+this is me playing with git
+Added this on oct 24 and changed to .TXT
